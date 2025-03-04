@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahi-B-Rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="psychorabbit99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psychorabbit99" alt="psychorabbit99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahi-B-Rahaman" alt="psychorabbit99" /></a> </p>
 
 - 🔭 I’m currently working on **Helping Paws**
 
