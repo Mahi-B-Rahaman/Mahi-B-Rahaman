@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahi B Rahaman</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psychorabbit99&label=Profile%20views&color=0e75b6&style=flat" alt="psychorabbit99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahi-B-Rahaman&label=Profile%20views&color=0e75b6&style=flat" alt="psychorabbit99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psychorabbit99" alt="psychorabbit99" /></a> </p>
 
