@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahi-b-rahaman-99585a331/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo](https://avatars.githubusercontent.com/u/99273214?s=400&u=78f66a79324779207a74b59a9c286480a45b21c8&v=4)"  />
   </a>
   <a href="mailto:mahirahaman298@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out%20to%20you." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
